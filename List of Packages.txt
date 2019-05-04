@@ -1,0 +1,11 @@
+A File Icon
+AdvancedNewFile
+Babel
+Color Highlight
+Emmet
+FileBrowser
+MaterialTheme
+PackageResourceViewer
+SideBarEnhancements
+SublimeLinter
+Terminal
